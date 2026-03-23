@@ -1,8 +1,8 @@
 <div align="center">
     
-dev from turkey. i like building automation scripts, analyzing how things work under the hood, and messing with discord bots.
+dev from turkey. i like building analyzing how things work under the hood
 
-python tools, security stuff, and whatever grabs my attention when i should be sleeping. if it runs, don't touch it. if it breaks, that's tomorrow's problem.
+security stuff, and whatever grabs my attention when i should be sleeping. if it runs, don't touch it. if it breaks, that's tomorrow's problem.
 
 ---
 
