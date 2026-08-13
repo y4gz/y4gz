@@ -43,7 +43,7 @@ security stuff, and whatever grabs my attention when i should be sleeping. if it
 
 <div align="center">
 
-[![discord](https://img.shields.io/badge/discord-yagizvvl-A855F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1321228992107511981)
+[![discord](https://img.shields.io/badge/discord-yagizs-A855F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1321228992107511981)
 [![github](https://img.shields.io/badge/github-y4gz-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/y4gz)
 
 <img src="https://komarev.com/ghpvc/?username=y4gz&color=A855F7&style=flat-square&label=views" />
