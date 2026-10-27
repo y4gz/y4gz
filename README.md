@@ -33,8 +33,8 @@ security stuff, and whatever grabs my attention when i should be sleeping. if it
 
 #### `now playing`
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31xzve7tsbyholqsd77pb277sf3q&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xzve7tsbyholqsd77pb277sf3q&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=A855F7&bar_color_cover=true" />
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3125afqzcc6cbfazh6abg23bmqdq&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3125afqzcc6cbfazh6abg23bmqdq&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=A855F7&bar_color_cover=true" />
 </a>
 
 </div>
