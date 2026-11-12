@@ -1,5 +1,5 @@
 <div align="center">
-    
+
 dev from turkey. i like building analyzing how things work under the hood
 
 security stuff, and whatever grabs my attention when i should be sleeping. if it runs, don't touch it. if it breaks, that's tomorrow's problem.
@@ -10,7 +10,7 @@ security stuff, and whatever grabs my attention when i should be sleeping. if it
 
 #### `toolbox`
 
-<img src="https://skillicons.dev/icons?i=js,java,vscode,cpp,py&perline=5" />
+<img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,java,py,go,php,html,css,nodejs,npm,vscode,clion,idea,pycharm,git,linux,docker&perline=6" />
 
 </div>
 
@@ -43,7 +43,7 @@ security stuff, and whatever grabs my attention when i should be sleeping. if it
 
 <div align="center">
 
-[![discord](https://img.shields.io/badge/discord-highfever-A855F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1321228992107511981)
+[![discord](https://img.shields.io/badge/discord-1337733113377331-A855F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1321228992107511981)
 [![github](https://img.shields.io/badge/github-y4gz-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/y4gz)
 
 <img src="https://komarev.com/ghpvc/?username=y4gz&color=A855F7&style=flat-square&label=views" />
