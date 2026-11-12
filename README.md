@@ -10,7 +10,7 @@ security stuff, and whatever grabs my attention when i should be sleeping. if it
 
 #### `toolbox`
 
-<img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,java,py,go,php,html,css,nodejs,npm,vscode,clion,idea,pycharm,git,linux,docker&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,cs,cpp,java,py,go,php,html,css,nodejs,npm,vscode,clion,idea,pycharm&perline=5" />
 
 </div>
 
